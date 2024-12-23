@@ -1,0 +1,147 @@
+.custom-bg-color{
+    background-color: #252728
+}
+
+.custom-ul{
+    margin-top: 21px;
+    margin-left: 250px;
+}
+.custom-nav-link{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+
+}
+
+.custom-height{
+    height: 400px;
+}
+
+.custom-m{
+    margin: 5px;
+    width: 273px !important;
+}
+.custom-height-footer{
+    height: 243px;
+}
+
+/* devise Responsive */
+
+@media screen and (max-width : 1201px) {
+    .custom-m{
+        width: 270px !important;
+    }
+}
+
+@media screen and (max-width : 1200px) {
+    .custom-m{
+        width: 230px !important;
+    }
+}
+
+@media screen and (max-width : 768px) {
+    .custom-m{
+        width: 170px !important;
+    }
+}
+@media screen and (max-width : 540px) {
+    .custom-m{
+        width: 165px !important;
+    }
+}
+@media screen and (max-width : 525px) {
+    .custom-m{
+        width: 250px !important;
+    }
+}
+@media screen and (max-width : 520px) {
+    .custom-m{
+        width: 243px !important;
+    }
+}
+@media screen and (max-width : 506px) {
+    .custom-m{
+        width: 237px !important;
+    }
+}
+@media screen and (max-width : 494px) {
+    .custom-m{
+        width: 230px !important;
+    }
+}
+@media screen and (max-width : 480px) {
+    .custom-m{
+        width: 225px !important;
+    }
+}
+@media screen and (max-width : 470px) {
+    .custom-m{
+        width: 220px !important;
+    }
+}
+@media screen and (max-width : 460px) {
+    .custom-m{
+        width: 215px !important;
+    }
+}
+@media screen and (max-width : 450px) {
+    .custom-m{
+        width: 210px !important;
+    }
+}
+@media screen and (max-width : 440px) {
+    .custom-m{
+        width: 205px !important;
+    }
+}
+@media screen and (max-width : 430px) {
+    .custom-m{
+        width: 200px !important;
+    }
+}
+@media screen and (max-width : 420px) {
+    .custom-m{
+        width: 195px !important;
+    }
+}
+@media screen and (max-width : 410px) {
+    .custom-m{
+        width: 190px !important;
+    }
+}
+@media screen and (max-width : 400px) {
+    .custom-m{
+        width: 380px !important;
+    }
+}
+
+/* footer responsive */
+
+@media screen and (max-width: 768px) {
+    .custom-height-footer{
+        height: 337px;
+    }
+    
+}
+@media screen and (max-width: 584px) {
+    .custom-height-footer{
+        
+        height: 360px;
+    }
+    
+}
+@media screen and (max-width: 576px) {
+    .custom-height-footer{
+        
+        height: 454px;
+    }
+    
+}
+@media screen and (max-width: 413px) {
+    .custom-height-footer{
+        font-size: 10px;
+        height: 454px;
+    }
+    
+}
